@@ -1,0 +1,19 @@
+        CAFE FLOOR JAYA SELALU
+      Jl. Gatot Subroto, Bengkalis
+        Telp: 0823-9024-7313
+======================================
+Tanggal   : 02-07-2025 12:00:43
+ID Pesanan: 22
+Pelanggan : Reni
+--------------------------------------
+Item            Qty    Harga     Total
+--------------------------------------
+Nasi Goreng       1   25.000    25.000
+--------------------------------------
+TOTAL BAYAR                   Rp25.000
+Metode Bayar                     Tunai
+Status                         Selesai
+======================================
+      TERIMA KASIH ATAS KUNJUNGAN
+        Simpan struk ini sebagai
+          bukti pembayaran

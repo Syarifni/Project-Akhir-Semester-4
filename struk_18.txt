@@ -1,0 +1,14 @@
+===================================
+     CAFE FLOOR
+-----------------------------------
+Tanggal : 2025-07-02 11:14:42
+Kasir   : Reni
+
+Pesanan:
+1. Nasi Goreng     x1  Rp25,000
+-----------------------------------
+TOTAL           : Rp25,000
+Metode Bayar    : Tunai
+Status          : LUNAS
+===================================
+Terima kasih atas kunjungannya!

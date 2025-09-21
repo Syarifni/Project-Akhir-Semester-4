@@ -1,0 +1,18 @@
+        CAFE FLOOR JAYA SELALU
+      Jl. Gatot Subroto, Bengkalis
+        Telp: 0823-9024-7313
+======================================
+Tanggal   : 02-07-2025 11:15:28
+Pelanggan : Reni
+--------------------------------------
+Item            Qty    Harga     Total
+--------------------------------------
+Cappucino         1   18.000    18.000
+--------------------------------------
+TOTAL BAYAR                 Rp 18.000
+Metode Bayar                Tunai
+Status                      Selesai
+======================================
+        TERIMA KASIH ATAS KUNJUNGAN
+          Simpan struk ini sebagai
+            bukti pembayaran
